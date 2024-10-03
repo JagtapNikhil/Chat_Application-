@@ -2,8 +2,8 @@
 <p>This is a simple chat application developed in Java that uses socket programming to enable communication between a server and multiple clients. The application features a graphical user interface (GUI) built with Swing, allowing users to send and receive messages in real-time.</p>
 
 <h1>Project Details</h1>
-Demo Video Link:
-Github Repository Link :
+Demo Video Link: <br>
+Github Repository Link : https://github.com/JagtapNikhil/Chat_Application-.git
   
 <h2>Features</h2>
 1. &nbspReal-time Messaging: Users can send and receive messages instantly between the server and clients.</br>
@@ -44,4 +44,8 @@ The project is composed of two main classes:<br>
 3. Profile: Modify user details like full name and contact number from the Profile menu.<br>
 
 <h2>Screenshots</h2>
+![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%201.png)
+![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%202.png)
+![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%203.png)
+![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%204.png)
 
