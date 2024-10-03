@@ -44,8 +44,6 @@ The project is composed of two main classes:<br>
 3. Profile: Modify user details like full name and contact number from the Profile menu.<br>
 
 <h2>Screenshots</h2>
-![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%201.png)
-![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%202.png)
-![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%203.png)
-![Alt text](https://github.com/JagtapNikhil/Chat_Application-/blob/c35f878ebdc675936bd127ef1e06f2347992612f/Screenshots/Screenshot%204.png)
+
+
 
