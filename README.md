@@ -45,5 +45,15 @@ The project is composed of two main classes:<br>
 
 <h2>Screenshots</h2>
 
+![Screenshot1](https://github.com/JagtapNikhil/Chat_Application-/blob/ca4786100a4406829677f399123ba81ce57e889d/Screenshots/Screenshot1.png)
+<h3>Theme: Light/Dark </h3>
+
+![Screenshot1](https://github.com/JagtapNikhil/Chat_Application-/blob/ca4786100a4406829677f399123ba81ce57e889d/Screenshots/Screenshot2.png)
+<h3>Font: Itallic/Bold </h3>
+
+![Screenshot1](https://github.com/JagtapNikhil/Chat_Application-/blob/ca4786100a4406829677f399123ba81ce57e889d/Screenshots/Screenshot3.png)
+<h3>Exit Navigation Window</h3>
+
+![Screenshot1](https://github.com/JagtapNikhil/Chat_Application-/blob/ca4786100a4406829677f399123ba81ce57e889d/Screenshots/Screenshot4.png)
 
 
